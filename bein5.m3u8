@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=640x480
+https://xtream.akomov.com/live/akotvapp/akotvapp/56.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1800000,RESOLUTION=720x576
+https://xtream.akomov.com/live/akotvapp/akotvapp/38.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1280x720
+https://xtream.akomov.com/live/akotvapp/akotvapp/20.m3u8
